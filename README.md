@@ -69,3 +69,4 @@ I don’t just read about automation — I break things, fix them, and learn fas
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+Some update
