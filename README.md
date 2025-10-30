@@ -63,11 +63,14 @@ I don’t just read about automation — I break things, fix them, and learn fas
 
 ---
 
-### ✨ Quote I Live By  
-> *“Automate. Deploy. Sleep. Repeat.”*  
+### ✨ Quote I Live By
+
+> *“Automate. Deploy. Sleep. Repeat.”*
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 Some update
-🔄 Update: Practicing GitHub collaboration and pull requests.
+Updated formatting for readability.
+
+fix: README formatting (closes #3)
