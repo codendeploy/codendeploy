@@ -41,6 +41,13 @@ I don’t just read about automation — I break things, fix them, and learn fas
 
 ---
 
+### 🎓 Certifications & Learning Path  
+- AWS Certified Cloud Practitioner *(ongoing)*  
+- Terraform Associate *(planned)*  
+- Kubernetes Essentials *(coming soon)*  
+
+---
+
 ### 💡 Fun Facts  
 
 💥 I learn faster when I break things.  
