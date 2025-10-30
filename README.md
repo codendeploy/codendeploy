@@ -70,3 +70,4 @@ I don’t just read about automation — I break things, fix them, and learn fas
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 Some update
+🔄 Update: Practicing GitHub collaboration and pull requests.
