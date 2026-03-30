@@ -33,7 +33,7 @@ I don’t just read about automation — I break things, fix them, and learn fas
 ---
 
 ### ⚙️ Currently Learning  
-- ☁️ Deep dive into AWS (EC2, S3, IAM, CloudWatch, Lambda)  
+- ☁️ Deep dive into AWS Core Services  
 - 🐳 Mastering Docker & Containers  
 - ⚡ Building CI/CD pipelines using GitHub Actions  
 - 📜 Terraform for Infra Automation  
