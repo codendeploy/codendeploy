@@ -42,7 +42,9 @@ I don’t just read about automation — I break things, fix them, and learn fas
 ---
 
 ### 🎓 Certifications & Learning Path  
-- AWS Certified Cloud Practitioner *(ongoing)*  
+- AWS Certified Cloud Practitioner
+- AWS Certified SysOps Administrator Associate
+- AWS Certified Solution Architect Associate 
 - Terraform Associate *(planned)*  
 - Kubernetes Essentials *(coming soon)*  
 
