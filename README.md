@@ -34,7 +34,7 @@ I don’t just read about automation — I break things, fix them, and learn fas
 
 ### ⚙️ Currently Learning  
 - ☁️ Deep dive into AWS Core Services  
-- 🐳 Mastering Docker & Containers  
+- 🐳 Learning Docker & Containers  
 - ⚡ Building CI/CD pipelines using GitHub Actions  
 - 📜 Terraform for Infra Automation  
 - 🧠 Python for automation (coming soon 👀)
